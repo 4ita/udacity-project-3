@@ -143,15 +143,11 @@ In a separate terminal window, launch the DApp:
 npm run dev
 ```
 
-## Why web3 is adopted
-
-I use web3 to connect the wallet provider (metamask) to this web application.
-
 ## Built With
 
 * [Ethereum](https://www.ethereum.org/) - Ethereum is a decentralized platform that runs smart contracts
 * [Truffle Framework](http://truffleframework.com/) - Truffle is the most popular development framework for Ethereum with a mission to make your life a whole lot easier.
-
+* [Web3](https://github.com/ChainSafe/web3.js) - Web3 is used to connect the wallet provider (metamask etc.) to the web application.
 
 ## Authors
 
